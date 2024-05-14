@@ -1,0 +1,8 @@
+version: '3.8' # Specify a Compose file version
+
+services:
+  image-classifier:
+    build: .
+    volumes:
+      - /Users/rajarshi/Documents/Projects/Image Classification/pneumonia-classification-app/images:/app/input  # Host path to container path
+      - /Users/rajarshi/Documents/Projects/Image Classification/pneumonia-classification-app:/app/output 

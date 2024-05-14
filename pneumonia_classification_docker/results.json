@@ -1,0 +1,402 @@
+{
+    "NORMAL2-IM-0272-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.48703598976135254
+    },
+    "person1662_virus_2875.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person138_bacteria_659.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9993151426315308
+    },
+    "person34_virus_76.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person94_bacteria_457.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person126_bacteria_599.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person1_virus_13.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0173-0001-0002.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9998830556869507
+    },
+    "NORMAL2-IM-0362-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9970940351486206
+    },
+    "person139_bacteria_662.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person1665_virus_2878.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9999929666519165
+    },
+    "person136_bacteria_650.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person113_bacteria_540.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person96_bacteria_466.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person108_bacteria_507.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person109_bacteria_526.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person124_bacteria_592.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9974126219749451
+    },
+    "NORMAL2-IM-0348-0001.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9997010827064514
+    },
+    "person120_bacteria_570.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person153_bacteria_725.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person147_bacteria_711.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9999909400939941
+    },
+    "NORMAL2-IM-0217-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0117-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.997366726398468
+    },
+    "NORMAL2-IM-0246-0001.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9999995231628418
+    },
+    "NORMAL2-IM-0300-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9999988079071045
+    },
+    "person87_bacteria_434.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person72_virus_133.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9605661630630493
+    },
+    "NORMAL2-IM-0338-0001.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9823681712150574
+    },
+    "NORMAL2-IM-0007-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0013-0001.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9999645948410034
+    },
+    "NORMAL2-IM-0130-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person55_virus_110.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9862085580825806
+    },
+    "NORMAL2-IM-0368-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "IM-0091-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.8291256427764893
+    },
+    "person175_bacteria_835.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "IM-0022-0001.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person8_virus_28.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9999995231628418
+    },
+    "NORMAL2-IM-0129-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person159_bacteria_746.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person139_bacteria_665.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person146_bacteria_703.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0251-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9998279809951782
+    },
+    "NORMAL2-IM-0317-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person1612_virus_2798.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9983932375907898
+    },
+    "NORMAL2-IM-0073-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9999997615814209
+    },
+    "IM-0049-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0052-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0028-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.6769995093345642
+    },
+    "person1653_virus_2858.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person143_bacteria_689.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person133_bacteria_635.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0360-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9998652935028076
+    },
+    "IM-0071-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9999847412109375
+    },
+    "NORMAL2-IM-0281-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9999964237213135
+    },
+    "NORMAL2-IM-0096-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "IM-0102-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person50_virus_102.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9248606562614441
+    },
+    "person137_bacteria_655.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9999222755432129
+    },
+    "NORMAL2-IM-0341-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0276-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.999995231628418
+    },
+    "NORMAL2-IM-0305-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9978127479553223
+    },
+    "NORMAL2-IM-0023-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person143_bacteria_688.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9999997615814209
+    },
+    "person155_bacteria_730.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person93_bacteria_454.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0347-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9993785619735718
+    },
+    "NORMAL2-IM-0171-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9999946355819702
+    },
+    "person152_bacteria_720.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "IM-0077-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person173_bacteria_830.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person10_virus_35.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9999816417694092
+    },
+    "NORMAL2-IM-0072-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.05646399408578873
+    },
+    "NORMAL2-IM-0302-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.09220653027296066
+    },
+    "NORMAL2-IM-0378-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0120-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person100_bacteria_479.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person78_bacteria_380.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0280-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person71_virus_131.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.07372789829969406
+    },
+    "person150_bacteria_717.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.06538502871990204
+    },
+    "NORMAL2-IM-0361-0001.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9842782616615295
+    },
+    "person88_bacteria_438.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "IM-0103-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person1613_virus_2799.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.998477041721344
+    },
+    "NORMAL2-IM-0277-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9725810885429382
+    },
+    "NORMAL2-IM-0331-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0219-0001.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person1625_virus_2817.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9905450344085693
+    },
+    "NORMAL2-IM-0173-0001-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9998830556869507
+    },
+    "person113_bacteria_542.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "IM-0001-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person1661_virus_2873.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "IM-0039-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.9999983310699463
+    },
+    "person24_virus_58.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 0.5022436380386353
+    },
+    "NORMAL2-IM-0373-0001.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person85_bacteria_421.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0309-0001.jpeg": {
+        "prediction": "NORMAL",
+        "confidence": 1.0
+    },
+    "person120_bacteria_572.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "person83_bacteria_410.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 1.0
+    },
+    "NORMAL2-IM-0221-0001.jpeg": {
+        "prediction": "PNEUMONIA",
+        "confidence": 0.9999923706054688
+    }
+}
