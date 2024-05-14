@@ -1,6 +1,5 @@
 my_venv/
 pneumonia_classification_docker/my_venv/
-chest_xray/
 .DS_Store
 **/.DS_Store
 *.dylib
