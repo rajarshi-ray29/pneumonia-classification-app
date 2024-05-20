@@ -1,4 +1,5 @@
 pneumonia_classification_docker/my_venv/
+/my_venv/
 .DS_Store
 **/.DS_Store
 *.dylib
